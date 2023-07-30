@@ -44,6 +44,8 @@ public class n11_Test extends BaseClass {
     }
 }
 
+
+
 //        DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
 //        desiredCapabilities.setCapability("platformName", "Android");
 //        desiredCapabilities.setCapability("appium:udid", "emulator-5554");
